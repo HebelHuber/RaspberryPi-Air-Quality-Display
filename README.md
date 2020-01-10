@@ -1,5 +1,5 @@
 # RaspberryPi-Air-Quality-Display
-Simple Setup to build a raspberry pi based air quality monitor
+Simple Setup to build a raspberry pi based air quality monitor running on a raspberry pi zero w/wh
 
 ### For now this is just a copy of [Xose Pérez](https://github.com/xoseperez)'s [Gist](https://gist.github.com/xoseperez/e23334910fb45b0424b35c422760cb87)
 
