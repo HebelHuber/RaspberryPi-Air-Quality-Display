@@ -13,6 +13,8 @@ Simple Setup to build a raspberry pi based air quality monitor
 * Using WS2812b LED strip to display temp, humidity and CO2 [Link](https://github.com/jgarff/rpi_ws281x)
 * Trigger mobile notifications on [CO2 Thresholds](https://www.lufft.com/blog/fuenf-gruende-warum-die-ueberwachung-der-co2-konzentration-eine-gute-idee-ist/)
 
+# Original from [here](https://gist.github.com/xoseperez/e23334910fb45b0424b35c422760cb87)
+
 # Raspberry Pi 3 IoT Home Server
 
 ## Presentation
