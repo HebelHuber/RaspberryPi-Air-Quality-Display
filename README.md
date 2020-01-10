@@ -9,7 +9,7 @@ Simple Setup to build a raspberry pi based air quality monitor
 * Running [InfluxDB](https://github.com/influxdata/influxdb) for storing historical values
 * Setup InfluxDB to [receive data from external sensors](https://www.influxdata.com/blog/how-to-send-sensor-data-to-influxdb-from-an-arduino-uno/)
 * Running Grafana for showing pretty graphs
-* Running Telegraf for collecting internet uptime and system stats like HHD. [Uptime Dashboard](https://grafana.com/grafana/dashboards/2690) For monitoring the home internet connection
+* Running Telegraf for collecting HHD usage and internet uptime using [this](https://grafana.com/grafana/dashboards/2690) Dashboard.
 * Using WS2812b LED strip to display temp, humidity and CO2 [Link](https://github.com/jgarff/rpi_ws281x)
 * Trigger mobile notifications on [CO2 Thresholds](https://www.lufft.com/blog/fuenf-gruende-warum-die-ueberwachung-der-co2-konzentration-eine-gute-idee-ist/) using [Pushover](https://pushover.net/)
 
